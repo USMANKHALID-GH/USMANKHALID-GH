@@ -1,4 +1,14 @@
-### Hi there 👋
+ Hi there 👋
+ 
+📫 How to reach me: ...  ig _usmankhalid__
+
+🌱 I’m currently learning ... python
+
+Java developer ⚡
+
+Python✨
+GitHub Readme Stats
+
 
 <!--
 **USMANKHALID-GH/USMANKHALID-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
