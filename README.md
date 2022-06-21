@@ -2,9 +2,10 @@
  
 📫 How to reach me: ...  ig _usmankhalid__
 
-🌱 I’m currently learning ... python
+
 
 Java developer ⚡
+machine learning ( python)⚡
 
 Python✨
 GitHub Readme Stats
