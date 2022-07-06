@@ -1,6 +1,6 @@
  Hi there 👋
  
-📫 How to reach me: ...  ig __usmankhalid___
+📫 How to reach me: ...  ig ._usmankhalid__.
 
 
 
