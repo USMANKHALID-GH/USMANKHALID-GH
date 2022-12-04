@@ -10,6 +10,8 @@ machine learning ( python)⚡
 Python✨
 GitHub Readme Stats
 
+html, css javascript
+
 
 <!--
 **USMANKHALID-GH/USMANKHALID-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
